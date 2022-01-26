@@ -1,0 +1,10 @@
+{
+"default": {
+		"class":"Wind Energy Engineering",
+		"date":"",
+		"keep_intermediate_files":false,
+		"iterations":1,
+		"soft":false
+
+	}
+}
